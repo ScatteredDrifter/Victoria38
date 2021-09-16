@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.10*%
+%TF.CreationDate,2021-06-14T18:34:52+02:00*%
+%TF.ProjectId,scattered-bat-plate-1,73636174-7465-4726-9564-2d6261742d70,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.10) date 2021-06-14 18:34:52*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ViaPad*%
+%ADD10C,0.800000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.N,*%
+X114550000Y-62220000D03*
+X205150000Y-124370000D03*
+X205160000Y-71700000D03*
+X114530000Y-152900000D03*
+%TD*%
+M02*
